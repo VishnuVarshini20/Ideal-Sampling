@@ -5,7 +5,7 @@
 
 **Aim:**
 
-To study and perform the construction and reconstruction of impulse or ideal samplingof ideal sampling and observe the sampled waveform.
+To study and perform the construction and reconstruction of impulse or ideal sampling and observe the sampled waveform.
 
 **Tools Required:**
 
@@ -53,7 +53,6 @@ plt.legend()
 plt.show()
 ```
 **Output:**
-
 
 ![impulse1](https://github.com/user-attachments/assets/2d33490d-96fd-4e60-8dbd-f43f8aa1f3d7)
 ![impulse2](https://github.com/user-attachments/assets/0a8a36fd-81f2-416d-846a-87a69378a863)
